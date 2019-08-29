@@ -1,6 +1,0 @@
-{
-    "python.pythonPath": "/Users/albuquerque/.local/share/virtualenvs/assault-Xy5-w1vM/bin/python",
-    "editor.formatOnSave": true,
-    "python.formatting.provider": "black",
-    "python.linting.enabled": true
-}
